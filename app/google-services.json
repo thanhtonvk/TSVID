@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "963057875037",
-    "project_id": "tsvid-91a31",
-    "storage_bucket": "tsvid-91a31.appspot.com"
+    "project_number": "494543358599",
+    "firebase_url": "https://nckhtsvid-default-rtdb.firebaseio.com",
+    "project_id": "nckhtsvid",
+    "storage_bucket": "nckhtsvid.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:963057875037:android:8aebbf878f004d091635b4",
+        "mobilesdk_app_id": "1:494543358599:android:c4b8a5c0af41215076c622",
         "android_client_info": {
-          "package_name": "com.example.tsvid"
+          "package_name": "com.example.nckhtsvid"
         }
       },
       "oauth_client": [
         {
-          "client_id": "963057875037-67boo60kos67i2u2kpedj736no4k7olv.apps.googleusercontent.com",
+          "client_id": "494543358599-7njbi0jfdggu3dd65c4rpnhv9087natr.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDph9LgbXakP-5lZZunFtchbk0trMC3qck"
+          "current_key": "AIzaSyCVmAEaxqdGZ5GTRl2IGrdcNayK2VC295I"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "963057875037-67boo60kos67i2u2kpedj736no4k7olv.apps.googleusercontent.com",
+              "client_id": "494543358599-7njbi0jfdggu3dd65c4rpnhv9087natr.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
